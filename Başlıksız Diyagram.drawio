@@ -1,9 +1,146 @@
-<mxfile host="app.diagrams.net" modified="2024-05-05T13:09:17.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.2.7" etag="Vw4TEpNNRBwiNPhNMDXP" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-05T13:19:25.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="4d2rGsYyqjVWZWg-xBYR" version="24.2.7" type="github">
   <diagram name="Sayfa -1" id="DnzUViwbwxfzuC0Cyj4i">
-    <mxGraphModel>
+    <mxGraphModel dx="2696" dy="1402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HFo60am8A85Io0RLSpEs-41" value="Administrator" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="150" height="1002" as="geometry" />
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-42" value="Teacher" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="220" y="20" width="150" height="1002" as="geometry" />
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-43" value="Student" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="420" y="20" width="150" height="1002" as="geometry" />
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-44" value="MUPS_Interface" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="664" y="20" width="150" height="1002" as="geometry" />
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-45" value="Course_Catalog" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="908" y="20" width="150" height="1002" as="geometry" />
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-46" value="Course_Selection" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1108" y="20" width="150" height="1002" as="geometry" />
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-47" value="Course_Enrollment" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1446" y="20" width="152" height="1002" as="geometry" />
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-48" value="Confirmation" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1648" y="20" width="150" height="1002" as="geometry" />
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-49" value="Waitlist" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1848" y="20" width="150" height="1002" as="geometry" />
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-50" value="Course_Schedule" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2048" y="20" width="150" height="1002" as="geometry" />
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-51" value="Notification" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="2248" y="20" width="150" height="1002" as="geometry" />
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-52" value="loop" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=40" vertex="1" parent="1">
+          <mxGeometry x="485" y="147" width="508" height="202" as="geometry" />
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-53" value="[Course Selection]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="HFo60am8A85Io0RLSpEs-52">
+          <mxGeometry x="40" width="468" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-54" value="loop" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=40" vertex="1" parent="1">
+          <mxGeometry x="485" y="411" width="1047" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-55" value="[Course Enrollment]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="HFo60am8A85Io0RLSpEs-54">
+          <mxGeometry x="40" width="1007" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-56" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="485" y="571" width="1448" height="248" as="geometry" />
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-57" value="[Course Full]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="HFo60am8A85Io0RLSpEs-56">
+          <mxGeometry x="30" width="1418" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-58" value="[Time Conflict]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="HFo60am8A85Io0RLSpEs-56">
+          <mxGeometry y="155" width="1448" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-59" value="opt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="1512" y="829" width="821" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-60" value="[Notification]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="HFo60am8A85Io0RLSpEs-59">
+          <mxGeometry x="30" width="791" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-61" value="Configure system settings" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="HFo60am8A85Io0RLSpEs-41" target="HFo60am8A85Io0RLSpEs-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="427" y="127" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-62" value="Retrieve course offerings" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="HFo60am8A85Io0RLSpEs-44" target="HFo60am8A85Io0RLSpEs-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="871" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-63" value="Display available courses" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="HFo60am8A85Io0RLSpEs-44" target="HFo60am8A85Io0RLSpEs-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="627" y="277" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-64" value="Select desired courses" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="HFo60am8A85Io0RLSpEs-43" target="HFo60am8A85Io0RLSpEs-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="627" y="329" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-65" value="Confirm course selection" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="HFo60am8A85Io0RLSpEs-44" target="HFo60am8A85Io0RLSpEs-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="971" y="391" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-66" value="Verify course availability and eligibility" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="HFo60am8A85Io0RLSpEs-46" target="HFo60am8A85Io0RLSpEs-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1363" y="489" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-67" value="Confirmation of course enrollment" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="HFo60am8A85Io0RLSpEs-47" target="HFo60am8A85Io0RLSpEs-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1019" y="541" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-68" value="Add student to waitlist" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="HFo60am8A85Io0RLSpEs-47" target="HFo60am8A85Io0RLSpEs-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1733" y="649" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-69" value="Prompt to choose alternative course" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="HFo60am8A85Io0RLSpEs-49" target="HFo60am8A85Io0RLSpEs-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1219" y="701" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-70" value="Prompt to choose alternative schedule" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="HFo60am8A85Io0RLSpEs-47" target="HFo60am8A85Io0RLSpEs-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1019" y="799" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HFo60am8A85Io0RLSpEs-71" value="Notify student of successful enrollment" style="verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="HFo60am8A85Io0RLSpEs-47" target="HFo60am8A85Io0RLSpEs-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1933" y="907" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
